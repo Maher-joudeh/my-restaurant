@@ -22,9 +22,14 @@
 
 | Item     | Price | Picture     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
+| Bruschetta      | 20       | ![BR](https://i.ibb.co/zN2MvQY/download-6.jpg)  |
+| Calamari Fritti   | 20        | ![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)    |
+|Neapolitan Pizza  | 20        | ![NP](https://i.ibb.co/xLYGSWj/download-4.jpg)      |
 | Paragraph   | Text        | And more      |
-
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
 
 
 ### *"A dininng experience to live for"*
