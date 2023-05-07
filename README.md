@@ -21,3 +21,12 @@
 
 
 ### *"A dininng experience to live for"*
+
+
+
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
