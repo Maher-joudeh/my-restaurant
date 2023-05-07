@@ -8,22 +8,15 @@
 
 
 ## **OUR MENU**
-|                 | Item                |Price (Tax Inclusive)  |Picture|
-| ----------------|----------------|----------------|----------------| 
-|**Appetizers**   |	Bruschetta          |20$                    |![BR](https://i.ibb.co/zN2MvQY/download-6.jpg)  |
-|                 | Calamari Fritti     |25$                    |![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)  |
-|**Main Dishes**  | Neapolitan Pizza    |58$                    |![NP](https://i.ibb.co/xLYGSWj/download-4.jpg)  |
-|                 | Spaghetti Carbonara	|104$                   |![SC](https://i.ibb.co/qBpPhLt/download-3.jpg)  |
-|                 | Chicken Parmesan    |66$                    |![CP](https://i.ibb.co/TTrmksh/download.jpg)    |
-|**Drinks**       | Orange Juice        |7$                     |![OJ](https://i.ibb.co/w0jr67f/download-2.jpg)  |
-|                 | Italian Margarita   |12$                    |![IM](https://i.ibb.co/QYk3cwY/download-7.jpg) |
-
-
-| Item        | Picture |
-| ----------- | ----------- |
-| Bruschetta      | ![BR](https://i.ibb.co/zN2MvQY/download-6.jpg)      |
-| Calamari Fritti    | ![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)        |
-| Calamari Fritti    | ![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)        |
+|| Description | Price (Tax Inclusive) | Picture                                      |
+| :----:      | :----:               | :----:                                       |
+| Bruschetta  | 20$                  | ![BR](https://i.ibb.co/zN2MvQY/download-6.jpg)  |
+| Calamari Fritti | 25$              | ![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)  |
+| Neapolitan Pizza | 58$             | ![NP](https://i.ibb.co/xLYGSWj/download-4.jpg)  |
+| Spaghetti Carbonara | 104$         | ![SC](https://i.ibb.co/qBpPhLt/download-3.jpg)  |
+| Chicken Parmesan | 66$             | ![CP](https://i.ibb.co/TTrmksh/download.jpg)    |
+| Orange Juice | 7$                  | ![OJ](https://i.ibb.co/w0jr67f/download-2.jpg)  |
+| Italian Margarita | 12$            | ![IM](https://i.ibb.co/QYk3cwY/download-7.jpg) |
 
 
 ### *"A dininng experience to live for"*
