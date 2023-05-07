@@ -16,7 +16,7 @@
 |             | Spaghetti Carbonara	|104$|![SC](https://i.ibb.co/qBpPhLt/download-3.jpg)     |
 |             | Chicken Parmesan    |66$ |![CP](https://i.ibb.co/TTrmksh/download.jpg)|
 |**Drinks**       | Orange Juice |7$         |![OJ](https://i.ibb.co/w0jr67f/download-2.jpg)  |
-|             | Italian Margarita |12$   | ![IM](https://i.ibb.co/3RHq0hV/download-1.jpg) |
+|             | Italian Margarita |12$   | ![IM](https://i.ibb.co/QYk3cwY/download-7.jpg) |
 
 
 
