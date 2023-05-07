@@ -19,6 +19,11 @@
 |                 | Italian Margarita   |12$                    |![IM](https://i.ibb.co/QYk3cwY/download-7.jpg) |
 
 
+| Item        | Picture |
+| ----------- | ----------- |
+| Bruschetta      | ![BR](https://i.ibb.co/zN2MvQY/download-6.jpg)      |
+| Calamari Fritti    | ![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)        |
+| Calamari Fritti    | ![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)        |
 
 
 ### *"A dininng experience to live for"*
