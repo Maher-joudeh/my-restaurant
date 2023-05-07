@@ -8,7 +8,8 @@
 
 
 ## **OUR MENU**
-| Item     | Price (TAX Inclusive) | Picture     |
+
+| Item     | Price  | Picture     |
 | :---        |    :----:   |          ---: |
 | Bruschetta      | 20$       | ![BR](https://i.ibb.co/zN2MvQY/download-6.jpg)  |
 | Calamari Fritti   | 25$        | ![CF](https://i.ibb.co/q1wj8cz/download-5.jpg)    |
