@@ -1,109 +1,119 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="description" content=" Gourmet Italiano Restaurant" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title> Gourmet Italiano Restaurant </title>
-   </head>
-    <body>
-        <!-- Header -->
-        <div>
-            <img src="https://i.ibb.co/16K2J2T/logo.png"
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content=" Gourmet Italiano Restaurant" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gourmet Italiano Restaurant</title>
+    <!-- External Styling File -->
+    <link rel="stylesheet" href="./styling.css"> 
+</head>
+<body>
+    <!-- Header -->
+    <header class="main-heading">
+        <img class="logo" src="https://i.ibb.co/16K2J2T/logo.png">
         </br>
-            <h1 style="color: rgb(3, 3, 138);"> Gourmet Italiano Restaurant </h1>
-            <h3 style="color: rgb(0, 0, 0);"> Welcome To The  Gourmet Italiano Restaurant website </h3>
-            <ul>
-              <li><a href= "https://maher-joudeh.github.io/my-restaurant/index.html">Home</a></li>
-              <li><a href="https://maher-joudeh.github.io/my-restaurant/about.html">About us</a></li>
-              <li><a href="#contact-us" > Contact us</a></li>
-            </ul>
-        </div>
-        <!-- Main content -->
-        <div>
-                <!-- Main Dishes -->
-                <table border="1">
-                    <tr>
-                      <th>Item</th>
-                      <th>Price</th>
-                      <th>Picture</th>
-                    </tr>
-                    <tr>
-                      <td>Neapolitan Pizza</td>
-                      <td>$58</td>
-                      <td><img src="https://i.ibb.co/zN2MvQY/download-6.jpg"></td>
-                    </tr>
-                    <tr>
-                      <td>Spaghetti Carbonara</td>
-                      <td>$104</td>
-                      <td><img src="https://i.ibb.co/qBpPhLt/download-3.jpg"></td>
-                    </tr>
-                    <tr>
-                      <td>Chicken Parmesan</td>
-                      <td>$76</td>
-                      <td><img src="https://i.ibb.co/TTrmksh/download.jpg"></td>
-                    </tr>
-                  </table>
-                  
-        </br>
-            <!-- Apitizers -->
-            <table border="1">
-                <tr>
-                  <th>Item</th>
-                  <th>Price</th>
-                  <th>Picture</th>
-                </tr>
-                <tr>
-                  <td>Calamari Fritti</td>
-                  <td>$25</td>
-                  <td><img src="https://i.ibb.co/q1wj8cz/download-5.jpg"></td>
-                </tr>
-                <tr>
-                  <td>Bruschetta</td>
-                  <td>$20</td>
-                  <td><img src="https://i.ibb.co/zN2MvQY/download-6.jpg"></td>
-                </tr>
-              </table>
-              
-        </br>
-            <!-- Drinks -->
-            <table border="1">
-                <tr>
-                  <th>Item</th>
-                  <th>Price</th>
-                  <th>Picture</th>
-                </tr>
-                <tr>
-                  <td>Italian Margarita</td>
-                  <td>$12</td>
-                  <td><img src="https://i.ibb.co/QYk3cwY/download-7.jpg"></td>
-                </tr>
-                <tr>
-                  <td>Orange Juice</td>
-                  <td>$7</td>
-                  <td><img src="https://i.ibb.co/w0jr67f/download-2.jpg"></td>
-                </tr>
-              </table>
-              
-        </br>
+        <!-- Inline styling used -->
+        <h1 class="main-heading__title">Gourmet Italiano Restaurant</h1>
+        <h3 class="main-heading__subtitle">Welcome to the Gourmet Italiano Restaurant website</h3>
+        <ul class="main-heading__nav">
+            <li><a href="https://maher-joudeh.github.io/my-restaurant/index.html" class="main-heading__nav-link">Home</a></li>
+            <li><a href="https://maher-joudeh.github.io/my-restaurant/about.html" class="main-heading__nav-link">About us</a></li>
+            <li><a href="#contact-us" class="main-heading__nav-link">Contact us</a></li>
+        </ul>
+    </header>
 
-        </div>
-        <!-- Footer -->
-        <div>
-          <div>
-            <h2 class="contact-us" id="contact-us">Contact Us </h2>
-            <p class="footer-text"> Location: 123 Main St. Bradway, USA </br>
-                Contact Information: Phone: (555) 123-4567 </br>
-                Email: info@gourmetitalian.com</p>
-              <p class="social-media">Social Media Accounts:</br>
-                Facebook: @gourmetitalian</br>
-                Twitter: @gourmet_italian</br>
-                Instagram: @gourmetitalianrestaurant</p>
+    <!-- Main content -->
+    <section class="menu">
+        <!-- Main Dishes --> 
+        <table class="menu__table" border="1">
+            <caption>Main Dishes</caption>
+            <tr>
+                <th>Item</th>
+                <th>Price</th>
+                <th>Picture</th>
+            </tr>
+            <tr>
+                <td>Neapolitan Pizza</td>
+                <td>$58</td>
+                <td><img src="https://i.ibb.co/zN2MvQY/download-6.jpg"></td>
+            </tr>
+            <tr>
+                <td>Spaghetti Carbonara</td>
+                <td>$104</td>
+                <td><img src="https://i.ibb.co/qBpPhLt/download-3.jpg"></td>
+            </tr>
+            <tr>
+                <td>Chicken Parmesan</td>
+                <td>$76</td>
+                <td><img src="https://i.ibb.co/TTrmksh/download.jpg"></td>
+            </tr>
+        </table>
+
+        </br>
+        
+        <!-- Appetizers -->
+        <table class="menu__table" border="1">
+            <caption>Appetizers</caption>
+            <tr>
+                <th>Item</th>
+                <th>Price</th>
+                <th>Picture</th>
+            </tr>
+            <tr>
+                <td>Calamari Fritti</td>
+                <td>$25</td>
+                <td><img src="https://i.ibb.co/q1wj8cz/download-5.jpg"></td>
+            </tr>
+            <tr>
+                <td>Bruschetta</td>
+                <td>$20</td>
+                <td><img src="https://i.ibb.co/zN2MvQY/download-6.jpg"></td>
+            </tr>
+        </table>
+
+        </br>
+                    <!-- Drinks -->
+            <table class="drinks-table" border="1">
+                <caption class="drinks-caption"> Drinks </caption>
+                <tr>
+                <th class="drinks-header">Item</th>
+                <th class="drinks-header">Price</th>
+                <th class="drinks-header">Picture</th>
+                </tr>
+                <tr>
+                <td class="drink-item">Italian Margarita</td>
+                <td class="drink-price">$12</td>
+                <td class="drink-picture"><img class="drink-image" src="https://i.ibb.co/QYk3cwY/download-7.jpg"></td>
+                </tr>
+                <tr>
+                <td class="drink-item">Orange Juice</td>
+                <td class="drink-price">$7</td>
+                <td class="drink-picture"><img class="drink-image" src="https://i.ibb.co/w0jr67f/download-2.jpg"></td>
+                </tr>
+            </table>
             </br>
-            <h2>"A dininng experience to live for"</h2>
-            </br>
-            <p>All Rights Reserved @ Maher Joudeh</p>
-        </div>
-    </body>
-</html>
+            <!-- Footer -->
+            <footer class="footer">
+                <!-- Contact Info-->
+                <h2 class="contact-header">Contact Us</h2>
+                <p class="contact-info" id="contact-us">Location: 123 Main St. Broadway, USA </br>
+                </br>Contact Information:</br>
+                Phone: (555) 123-4567 </br>
+                Email: info@gourmetitaliano.com  </p>
+                <br>
+                <p class="social-media-info">Social Media Accounts:</br>
+                Facebook: @gourmetitaliano</br>
+                Twitter: @gourmet_italiano</br>
+                Instagram: @gourmetitalianorestaurant</p>
+                </br>
+                <h2 class="quote-header">"A dining experience to live for"</h2>
+                </br>
+                <div class="copyright">
+                <!-- Copyrights-->
+                <p>All Rights Reserved @ Maher Joudeh</p>
+                </div>
+  </footer>
+  </body>
+  </html>
