@@ -2,6 +2,8 @@
 .main-heading {
   background-color: #bab8ff;
   padding: 20px;
+  font-size: 35px;
+  font-style: italic;
   display: flex;
   justify-content: space-between;
   align-items: center;
